@@ -1,2 +1,4 @@
 # LDtagwriter
 An app that allows calculating the math of the lego dimension nfc tags allowing to write values on ntags 213/215.
+!!keep in mind for the changes to take effect in the game if you switch a tag value the game will need a restart to register the new tag value or it will be the same so in short. if you update a tag for it to take effect you will have to restart the game. 
+this app DOES support custom tag values such as the lord vortech mod if you go to the custom id section of the app and write the id number so for instance in the mod lord vortech is mentioned to be 73. so putting a value of 73 in the id section and writing to the tag will summon lord vortech!!!!!!!!!!!!!! (but keep in mind this app does not and cannot tell you the id of chr/veh, on,y insert it or save it that means you need to know the id of said tag).
